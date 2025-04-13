@@ -6,7 +6,7 @@ Using cheats in online games violates terms of service and may result in account
 I do NOT condone cheating in multiplayer games.
 
 ## 🧰 Features (Hypothetical)
-- -✅ External Memory Manipulation – No injection, stays stealthy.
+- ✅ External Memory Manipulation – No injection, stays stealthy.
 - ✅ Entity ESP – Visualize players, vehicles, and objects.
 - ✅ Aimbot Framework – Smooth targeting system (configurable).
 - ✅ Vehicle Godmode Bypass – (Research only!)
